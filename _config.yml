@@ -18,7 +18,7 @@ title: Jordan Handy # the main title
 
 tagline: >-
   Aerospace Engineering student at Virginia Tech<br>
-  Blacksburg, VA<br>
+  <i class="fas fa-map-marker-alt"></i>Blacksburg, VA<br>
   Phone: (123)- 456-7890
 
 description: >- # used by seo meta and the atom feed

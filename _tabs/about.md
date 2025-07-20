@@ -4,8 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
 Hey I'm Jordan Handy. I'm an aerospace engineering student studying at Virginia Tech. I'm from Los Angeles, California and I am 22 years old. 
 
 My career interest lie within propulsions technology. Specifically I am looking to pursuit high speed air-breathing engines as my speciality. I will be graduating in May 2026 with plans to continue my education in a Master's Degree.

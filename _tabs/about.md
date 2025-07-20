@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Desktop View](/media/avatar.jpg){: width="972" height="589" .w-50 .left}
+![Desktop View](/media/avatar.jpg){: width="485" height="295" .w-50 .left}
 Hey I'm Jordan Handy. I'm an aerospace engineering student studying at Virginia Tech. I'm from Los Angeles, California and I am 22 years old. 
 
 My career interest lie within propulsions technology. Specifically I am looking to pursuit high speed air-breathing engines as my speciality. I will be graduating in May 2026 with plans to continue my education in a Master's Degree.

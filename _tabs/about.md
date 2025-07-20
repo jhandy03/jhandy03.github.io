@@ -14,7 +14,7 @@ I currently serve as the Propulsion Lead for [MachWorks](https://mwvt.org), a de
 ---
 
 ### My Resume
-<a href="/media/Resume.pdf" target="_blank">
+<a href="/media/HandyResume.pdf" target="_blank">
   <img src="/media/Resume.png" alt="Resume" style="width: 100%; max-width: 600px; height: auto;">
 </a>
 

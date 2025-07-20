@@ -16,7 +16,9 @@ timezone: America/New_York
 
 title: Jordan Handy # the main title
 
-tagline: Aerospace Engineer # it will display as the subtitle
+tagline: >-
+  Aerospace Engineering student at Virginia Tech # it will display as the subtitle
+  Blacksburg, VA
 
 description: >- # used by seo meta and the atom feed
  

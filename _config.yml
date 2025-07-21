@@ -17,10 +17,10 @@ timezone: America/New_York
 title: Jordan Handy # the main title
 
 tagline: >-
-  <i class="fa-solid fa-graduation-cap"></i>Aerospace Engineering student<br>
-  <i class="fa-solid fa-school"></i>Virginia Tech<br>
-  <i class="fas fa-map-marker-alt"></i>Blacksburg, VA<br>
-  <i class="fa-solid fa-phone"></i>(123)- 456-7890
+  <i class="fa-solid fa-graduation-cap"></i> Aerospace Engineering student<br>
+  <i class="fa-solid fa-school"></i> Virginia Tech<br>
+  <i class="fas fa-map-marker-alt"></i> Blacksburg, VA<br>
+  <i class="fa-solid fa-phone"></i> (661)- 621-5632
 
 description: >- # used by seo meta and the atom feed
  
